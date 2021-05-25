@@ -1,4 +1,10 @@
-### Hi there 👋
+### Oh Hey, I'm Jordan !
+- :video_game: I’m currently learning about Emulators and Compilers.
+- 💬 Ask me about any early 2000's Anime.
+- :ru: Fun Fact: I'm trying to learn Russian.
+
+[![Jordan's GitHub stats](https://github-readme-stats.vercel.app/api?username=TcgVanguardTroll&theme=cobalt)](https://github.com/anuraghazra/github-readme-stats)
+
 
 <!--
 **TcgVanguardTroll/TcgVanguardTroll** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
