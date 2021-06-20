@@ -1,4 +1,5 @@
 ### Oh Hey, I'm Jordan !
+- :space_invader: Aspiring Game Dev
 - :video_game:  I’m currently learning about Emulators and Compilers.
 - 💬  Ask me about any early 2000's Anime.
 - 📫  How to reach me: jordangrant46@gmail.com
