@@ -3,7 +3,7 @@
 - :video_game:  I’m currently learning about Emulators and Compilers.
 - 💬  Ask me about any early 2000's Anime.
 - 📫  How to reach me: jordangrant46@gmail.com
-- :ru:  Fun Fact: I'm trying to learn Russian.
+- :ru:  Fun Fact: I'm a student of the Russian language.
 
 [![Jordan's GitHub stats](https://github-readme-stats.vercel.app/api?username=TcgVanguardTroll&theme=cobalt)](https://github.com/anuraghazra/github-readme-stats)
 
