@@ -1,15 +1,15 @@
-### Oh Hey, I'm Jordan !
-- :space_invader: Aspiring Game Dev
-- :video_game:  I’m currently learning about Emulators and Compilers.
-- 💬  Ask me about any early 2000's Anime.
-- 📫  How to reach me: jordangrant46@gmail.com
+### Oh Hey, I'm Jordan G !
+- :floppy_disk: Aspiring Game Dev
+- :art: I’m currently learning Music Theory and Pixel Art.
+- :mailbox: How to reach me: jordangrant46@gmail.com
 - :ru:  Fun Fact: I'm a student of the Russian language.
 
-[![Jordan's GitHub stats](https://github-readme-stats.vercel.app/api?username=TcgVanguardTroll&theme=cobalt)](https://github.com/anuraghazra/github-readme-stats)
 
 
 <!--
 **TcgVanguardTroll/TcgVanguardTroll** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+
+[![Jordan's GitHub stats](https://github-readme-stats.vercel.app/api?username=TcgVanguardTroll&theme=cobalt)](https://github.com/anuraghazra/github-readme-stats)
 
 Here are some ideas to get you started:
 
