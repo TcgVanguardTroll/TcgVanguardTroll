@@ -1,9 +1,9 @@
 ### Oh Hey, I'm Jordan G !
-- :floppy_disk: Aspiring Game Dev
-- :ox: I go to University at Buffalo, class of '22
-- :books: I study CS, with a minor in Linguistics
+- :floppy_disk: Aspiring Game Dev.
+- :ox: I go to University at Buffalo, class of '22.
+- :books: I study CS, with a minor in Linguistics.
 - :art: I’m currently learning Music Theory and Pixel Art.
-- :mailbox: How to reach me: jordangrant46@gmail.com
+- :mailbox: How to reach me: jordangrant46@gmail.com.
 - :ru:  Fun Fact: I'm a student of the Russian language.
 
 
